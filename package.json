@@ -1,0 +1,15 @@
+{
+    "name": "c1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "w1l3": "node w1l3/checks.js",
+        "w2l1": "node w2l1/checks.js",
+        "w2l2": "node w2l2/checks.js",
+        "w2l3": "node w2l3/checks.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
