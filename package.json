@@ -8,6 +8,7 @@
         "w2l1": "node w2l1/checks.js",
         "w2l2": "node w2l2/checks.js",
         "w2l3": "node w2l3/checks.js",
+        "w3l1": "node w3/l1/checks.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
