@@ -13,6 +13,15 @@
         <main class="global-results">
             <style>
                 /* ваш код здесь... */
+                input[type="email"]:invalid {
+                    border-color: #ff6698;
+                }
+                input[type="email"]:valid {
+                    border-color: #98ff66;
+                }
+                input[type="email"][required]:focus {
+                    border-color: #6698ff;
+                }
             </style>
 
             <section class="global-result">
